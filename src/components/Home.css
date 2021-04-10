@@ -1,0 +1,17 @@
+.HomeContainer {
+    padding: 100px;
+}
+
+.HomeTodoInput {
+    vertical-align: bottom;
+    width: 30vw;
+}
+
+.HomeInputButton {
+    vertical-align: bottom;
+    margin-left: 20px !important;
+}
+
+.HomeFormDiv {
+    text-align: center;
+}
