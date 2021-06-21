@@ -1,7 +1,7 @@
 import firebase from 'firebase';
 
 // Your web app's Firebase configuration
-var firebaseConfig = {
+const firebaseConfig = {
 apiKey: "AIzaSyByRxo9NNxY43IzAMyMkHdXn6j1duNCkTc",
 authDomain: "todoapp-react-4fc03.firebaseapp.com",
 projectId: "todoapp-react-4fc03",
